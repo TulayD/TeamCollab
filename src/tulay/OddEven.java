@@ -6,7 +6,6 @@ public class OddEven {
         OddAndEven(3);
 
     }
-
     public static void OddAndEven(int number) {
 
         if (number <= 0) {
